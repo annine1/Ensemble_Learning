@@ -1,0 +1,7 @@
+$ python3 -m venv project 
+$ source project/bin/activate
+$ desactivate
+$ pip list 
+$ pip install sklearn
+$ pip install pandas
+$ pip freeze > requirements.txt
